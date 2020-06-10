@@ -1,0 +1,71 @@
+"Weapon_Makarov.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"soundlevel" "SNDLVL_GUNFIRE"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\makarov\makarov_shot.wav"
+	
+}
+
+"Weapon_Makarov.MagOut"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel" "SNDLVL_NORM"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\makarov\MagOut.wav"
+	
+}
+"Weapon_Makarov.MagInScratch"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel" "SNDLVL_NORM"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\makarov\MagInScratch.wav"
+	
+}
+"Weapon_Makarov.MagInTap"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel" "SNDLVL_NORM"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\makarov\MagInTap.wav"
+	
+}
+"Weapon_Makarov.Sliderelease"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel" "SNDLVL_NORM"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\makarov\Sliderelease.wav"
+	
+}
+"Weapon_Makarov.SlideBack"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel" "SNDLVL_NORM"
+	"pitch"			"95,105"
+
+	"wave"		      "weapons\makarov\SlideBack.wav"
+	
+}
+"Weapon_Makarov.SlideForward"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel" "SNDLVL_NORM"
+	"pitch"			"95,105"
+
+	"wave"		"weapons\makarov\SlideForward.wav"
+	
+}

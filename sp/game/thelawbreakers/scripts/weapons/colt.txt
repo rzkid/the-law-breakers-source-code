@@ -1,0 +1,76 @@
+"Weapon_Colt.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"soundlevel" "SNDLVL_GUNFIRE"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\colt\colt_shot.wav"
+	
+}
+
+"Weapon_Colt.Slidepull"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\colt\Slidepull.wav"
+	
+}
+
+"Weapon_Colt.SlideRelease"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\colt\SlideRelease.wav"
+	
+}
+
+"Weapon_Colt.Clipout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".7"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\colt\Clipout.wav"
+	
+}
+
+"Weapon_Colt.Clipin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\colt\Clipin.wav"
+	
+}
+
+"Weapon_Colt.Cloth"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons\colt\Cloth.wav"
+	
+}
+
+"Weapon_Colt.Spin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"wave"			"weapons\colt\Spin.wav"
+	
+}

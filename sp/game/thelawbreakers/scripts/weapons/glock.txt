@@ -1,0 +1,40 @@
+"Weapon_Glock.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"soundlevel" "SNDLVL_GUNFIRE"
+	"pitch"			"95,105"
+
+	"wave"			"weapons\glock\glock_shot.wav"
+	
+}
+
+"Glock.Magout"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel" "SNDLVL_GUNFIRE"
+	"pitch"		"98,102"
+
+	"wave"			"weapons/glock/magout.wav" 
+}
+
+"Glock.Magin"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel" "SNDLVL_GUNFIRE"
+	"pitch"		"98,102"
+
+	"wave"			"weapons/glock/magin.wav" 
+}
+
+"Glock.cloth"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel" "SNDLVL_GUNFIRE"
+	"pitch"		"98,102"
+	
+	"wave"			"weapons/glock/cloth.wav"
+}
